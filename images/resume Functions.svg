@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1216.37256 714.34191">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e83828;
+      }
+
+      .cls-2 {
+        fill: #f7c072;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: MicrosoftJhengHeiBold, 'Microsoft JhengHei';
+        font-size: 21.06046px;
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        fill: url(#_未命名漸層_15-2);
+        filter: url(#drop-shadow-4);
+      }
+
+      .cls-6, .cls-7 {
+        mix-blend-mode: soft-light;
+      }
+
+      .cls-8 {
+        fill: url(#_未命名漸層_36);
+        filter: url(#drop-shadow-8);
+      }
+
+      .cls-3 {
+        fill: #82a4cd;
+      }
+
+      .cls-9 {
+        fill: #3c67a5;
+      }
+
+      .cls-7 {
+        fill: url(#_未命名漸層_15-3);
+        filter: url(#drop-shadow-7);
+      }
+
+      .cls-10 {
+        fill: url(#_未命名漸層_31);
+        filter: url(#drop-shadow-5);
+      }
+
+      .cls-11 {
+        fill: url(#_未命名漸層_22);
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-12 {
+        fill: url(#_未命名漸層_15);
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-13 {
+        fill: url(#_未命名漸層_13);
+        filter: url(#drop-shadow-3);
+        stroke: url(#_未命名漸層_13-2);
+        stroke-width: 1.34415px;
+      }
+
+      .cls-13, .cls-14, .cls-15 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-14 {
+        fill: url(#_未命名漸層_13-5);
+        filter: url(#drop-shadow-9);
+        stroke: url(#_未命名漸層_13-6);
+        stroke-width: 1.12064px;
+      }
+
+      .cls-4 {
+        fill: #f19995;
+      }
+
+      .cls-15 {
+        fill: url(#_未命名漸層_13-3);
+        filter: url(#drop-shadow-6);
+        stroke: url(#_未命名漸層_13-4);
+        stroke-width: 1.80826px;
+      }
+
+      .cls-16 {
+        fill: #f39800;
+      }
+    </style>
+    <linearGradient id="_未命名漸層_15" data-name="未命名漸層 15" x1="206.80036" y1="184.68128" x2="560.51684" y2="184.68128" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#bcbcbc"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.81019" dy="3.81019"/>
+      <feGaussianBlur result="blur" stdDeviation="3.81019"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_未命名漸層_22" data-name="未命名漸層 22" cx="468.90836" cy="89.33609" fx="468.90836" fy="89.33609" r="263.34645" gradientTransform="translate(-8.91263 -143.44859) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8ab4e0"/>
+      <stop offset="1" stop-color="#3c67a5"/>
+    </radialGradient>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.81019" dy="3.81019"/>
+      <feGaussianBlur result="blur-2" stdDeviation="3.81019"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_未命名漸層_13" data-name="未命名漸層 13" x1="260.05508" y1="184.68128" x2="507.26213" y2="184.68128" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#bcbcbc"/>
+    </linearGradient>
+    <linearGradient id="_未命名漸層_13-2" data-name="未命名漸層 13" x1="259.383" x2="507.93421" xlink:href="#_未命名漸層_13"/>
+    <filter id="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.81019" dy="3.81019"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5.71529"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_未命名漸層_15-2" data-name="未命名漸層 15" x1="440.36263" y1="268.74964" x2="916.21137" y2="268.74964" gradientTransform="translate(331.23858 1133.78297) rotate(-90)" xlink:href="#_未命名漸層_15"/>
+    <filter id="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.12579" dy="5.12579"/>
+      <feGaussianBlur result="blur-4" stdDeviation="5.12579"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_未命名漸層_31" data-name="未命名漸層 31" cx="722.6329" cy="-12.97264" fx="722.6329" fy="-12.97264" r="354.27549" gradientTransform="translate(187.78999 1142.6956) rotate(-45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f39800"/>
+    </radialGradient>
+    <filter id="drop-shadow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.12579" dy="5.12579"/>
+      <feGaussianBlur result="blur-5" stdDeviation="5.12579"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_未命名漸層_13-3" data-name="未命名漸層 13" x1="512.00529" y1="268.74964" x2="844.56872" y2="268.74964" gradientTransform="translate(331.23858 1133.78297) rotate(-90)" xlink:href="#_未命名漸層_13"/>
+    <linearGradient id="_未命名漸層_13-4" data-name="未命名漸層 13" x1="511.10116" y1="268.74964" x2="845.47285" y2="268.74964" gradientTransform="translate(331.23858 1133.78297) rotate(-90)" xlink:href="#_未命名漸層_13"/>
+    <filter id="drop-shadow-6" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.12579" dy="5.12579"/>
+      <feGaussianBlur result="blur-6" stdDeviation="7.68868"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_未命名漸層_15-3" data-name="未命名漸層 15" x1="712.01518" y1="770.64056" x2="1006.91334" y2="770.64056" gradientTransform="translate(1778.84764 1232.19657) rotate(-180)" xlink:href="#_未命名漸層_15"/>
+    <filter id="drop-shadow-7" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.17661" dy="3.17661"/>
+      <feGaussianBlur result="blur-7" stdDeviation="3.17661"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="_未命名漸層_36" data-name="未命名漸層 36" cx="1226.45812" cy="144.7939" fx="1226.45812" fy="144.7939" r="219.55546" gradientTransform="translate(1787.76027 1375.64516) rotate(-135)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e83828"/>
+    </radialGradient>
+    <filter id="drop-shadow-8" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.17661" dy="3.17661"/>
+      <feGaussianBlur result="blur-8" stdDeviation="3.17661"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_未命名漸層_13-5" data-name="未命名漸層 13" x1="756.41434" y1="770.64056" x2="962.51417" y2="770.64056" gradientTransform="translate(1778.84764 1232.19657) rotate(-180)" xlink:href="#_未命名漸層_13"/>
+    <linearGradient id="_未命名漸層_13-6" data-name="未命名漸層 13" x1="755.85402" y1="770.64056" x2="963.07449" y2="770.64056" gradientTransform="translate(1778.84764 1232.19657) rotate(-180)" xlink:href="#_未命名漸層_13"/>
+    <filter id="drop-shadow-9" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.17661" dy="3.17661"/>
+      <feGaussianBlur result="blur-9" stdDeviation="4.76491"/>
+      <feFlood flood-color="#707070" flood-opacity=".75"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-5">
+    <g id="_圖層_1" data-name="圖層 1">
+      <g>
+        <circle class="cls-12" cx="383.6586" cy="184.68128" r="176.85824"/>
+        <g>
+          <path class="cls-11" d="M548.08203,184.67927h-39.79223c-.62568,0-1.1282,.5031-1.13388,1.12875-.2814,31.00671-12.158,61.92768-35.62997,85.70102-47.47132,48.08083-125.67839,48.91498-174.11569,1.80744-49.52027-48.16078-49.93809-127.35356-1.25358-176.03807,23.84829-23.84829,55.01732-35.91412,86.27327-36.19754,.62519-.00567,1.12758-.50748,1.12758-1.1327V20.15371c0-.63622-.51952-1.15612-1.15572-1.15171-42.46048,.2944-84.82945,16.80994-117.01397,49.54687-62.80999,63.88804-63.11502,167.34495-.66284,231.5828,64.55394,66.39971,170.72192,66.96698,235.98691,1.70198,32.05708-32.05708,48.23136-73.98245,48.52288-115.99762,.00442-.63661-.51613-1.15677-1.15275-1.15677Z"/>
+          <circle class="cls-13" cx="383.6586" cy="184.68128" r="123.60353"/>
+        </g>
+      </g>
+      <g>
+        <circle class="cls-6" cx="599.98821" cy="455.49597" r="237.92437"/>
+        <g>
+          <path class="cls-10" d="M599.9855,234.29995v53.53181c0,.84172,.67681,1.51775,1.51849,1.52539,41.7128,.37856,83.31025,16.35595,115.29212,47.93239,64.68233,63.86235,65.80449,169.073,2.43151,234.23487-64.78988,66.61877-171.32656,67.18086-236.82101,1.68642-32.0827-32.0827-48.31465-74.01386-48.69594-116.06196-.00763-.84106-.68271-1.51692-1.5238-1.51692h-53.5348c-.85589,0-1.55531,.6989-1.54938,1.55477,.39605,57.12136,22.61413,114.11961,66.65455,157.4169,85.94749,84.49721,225.1263,84.90756,311.54439,.89171,89.32639-86.84332,90.08953-229.66928,2.28965-317.46916-43.12585-43.12585-99.52733-64.88482-156.04961-65.277-.85642-.00594-1.55618,.69434-1.55618,1.55078Z"/>
+          <circle class="cls-15" cx="599.98821" cy="455.49597" r="166.28171"/>
+        </g>
+      </g>
+      <g>
+        <circle class="cls-7" cx="919.38338" cy="461.55601" r="147.44908"/>
+        <g>
+          <path class="cls-8" d="M782.30137,461.55769h33.17532c.52164,0,.9406-.41944,.94533-.94106,.23461-25.85071,10.13629-51.62993,29.70518-71.45009,39.57747-40.08563,104.77976-40.78107,145.16258-1.50688,41.28571,40.15229,41.63405,106.17636,1.04513,146.76529-19.88264,19.88264-45.86867,29.94208-71.92718,30.17838-.52123,.00473-.94008,.42309-.94008,.94435v33.17717c0,.53042,.43313,.96388,.96354,.9602,35.39987-.24544,70.72345-14.01468,97.55611-41.30789,52.36553-53.26431,52.61984-139.51772,.55262-193.07368-53.81949-55.35833-142.33315-55.83126-196.74545-1.41896-26.72642,26.72642-40.21113,61.68016-40.45417,96.70876-.00368,.53075,.43031,.96441,.96107,.96441Z"/>
+          <circle class="cls-14" cx="919.38338" cy="461.55601" r="103.04991"/>
+        </g>
+      </g>
+      <path class="cls-16" d="M652.0715,542.02749h-105.81485v-21.53656l49.33585-48.56798c10.98974-10.76828,19.10044-20.07071,24.33936-27.91002,5.2371-7.8375,7.85656-16.37207,7.85656-25.60189,0-18.82543-9.96229-28.2395-29.88687-28.2395-14.94525,0-29.30235,6.26274-43.07493,18.79003v-24.83402c13.84519-10.10842,29.73983-15.16309,47.68938-15.16309,15.60238,0,28.0371,4.15791,37.30413,12.47102,9.26704,8.31492,13.89965,19.68769,13.89965,34.1183,0,10.4025-2.92987,20.75054-8.78962,31.04139-5.86156,10.29358-16.0798,22.47143-30.65655,36.53626l-37.7997,36.04069v.54912h75.59759v22.30624Z"/>
+      <path class="cls-1" d="M891.95516,490.60947c6.26562,4.76904,13.35938,7.15283,21.28027,7.15283,5.87109,0,10.56055-1.42822,14.06836-4.28564,3.50684-2.85693,5.26172-6.72852,5.26172-11.61572,0-10.7583-7.84277-16.1377-23.52734-16.1377h-7.80273v-11.17236h7.33008c13.98926,0,20.98438-5.02441,20.98438-15.07373,0-9.37842-5.33984-14.06836-16.01953-14.06836-6.30469,0-12.33496,2.12793-18.08789,6.38379v-12.41357c6.0293-3.42822,13.16211-5.14258,21.39844-5.14258,7.88184,0,14.33496,2.00049,19.35938,6,5.02441,4,7.53711,9.38965,7.53711,16.16699,0,12.02002-6.10938,19.68457-18.3252,22.99463v.23682c6.46289,.63086,11.64551,2.94629,15.54688,6.9458,3.90137,4,5.85254,8.9165,5.85254,14.74854,0,8.51221-3.08398,15.23145-9.25195,20.15723-6.16797,4.92676-14.19629,7.38916-24.08789,7.38916-8.94629,0-16.11816-1.59619-21.5166-4.78809v-13.47803Z"/>
+      <polygon class="cls-9" points="369.32404 142.11784 369.32404 157.12901 380.74476 154.04411 380.74476 234.76823 397.99317 234.76823 397.99317 134.59434 369.32404 142.11784"/>
+      <text class="cls-3" transform="translate(570.69555 138.45035)"><tspan x="0" y="0">1.介面簡潔，考慮各年齡階層多元，文字大小、間距適當</tspan><tspan x="0" y="36">2.色彩柔和，背景色與文字對比別太強烈</tspan></text>
+      <text class="cls-2" transform="translate(-.00012 374.53731)"><tspan x="0" y="0">1.內容重點條列，簡潔不囉嗦</tspan><tspan x="0" y="36">2.盡量圖示代替文字，減少閱讀過程</tspan><tspan x="0" y="72">3.增加一些誘因，引導讓消費者多使用</tspan></text>
+      <text class="cls-4" transform="translate(777.26074 642.71126)"><tspan x="0" y="0">1.考慮買菜族為女性居多，增加女性感興趣元素</tspan><tspan x="0" y="36">2.傳達訊息以文字以外的方式呈現</tspan></text>
+    </g>
+  </g>
+</svg>

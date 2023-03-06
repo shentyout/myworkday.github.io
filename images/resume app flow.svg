@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 2025.19565">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        filter: url(#drop-shadow-7);
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+        fill: #213155;
+      }
+
+      .cls-18 {
+        filter: url(#drop-shadow-30);
+      }
+
+      .cls-6 {
+        filter: url(#drop-shadow-25);
+      }
+
+      .cls-2 {
+        filter: url(#drop-shadow-14);
+      }
+
+      .cls-2, .cls-8, .cls-3, .cls-4 {
+        font-family: MicrosoftJhengHeiRegular, 'Microsoft JhengHei';
+        font-size: 46.93245px;
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-16);
+      }
+
+      .cls-19 {
+        filter: url(#drop-shadow-17);
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30 {
+        fill: none;
+        stroke: #213155;
+        stroke-miterlimit: 10;
+        stroke-width: 3.91104px;
+      }
+
+      .cls-31 {
+        filter: url(#drop-shadow-21);
+      }
+
+      .cls-8 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-20 {
+        filter: url(#drop-shadow-10);
+      }
+
+      .cls-9 {
+        filter: url(#drop-shadow-18);
+      }
+
+      .cls-21 {
+        filter: url(#drop-shadow-9);
+      }
+
+      .cls-22 {
+        filter: url(#drop-shadow-28);
+      }
+
+      .cls-23 {
+        filter: url(#drop-shadow-3);
+      }
+
+      .cls-32 {
+        letter-spacing: -.09472em;
+      }
+
+      .cls-10 {
+        filter: url(#drop-shadow-4);
+      }
+
+      .cls-33 {
+        filter: url(#drop-shadow-23);
+      }
+
+      .cls-34 {
+        filter: url(#drop-shadow-37);
+      }
+
+      .cls-3 {
+        filter: url(#drop-shadow-13);
+      }
+
+      .cls-11 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-35, .cls-36 {
+        fill: #3da39c;
+      }
+
+      .cls-37 {
+        filter: url(#drop-shadow-38);
+      }
+
+      .cls-38 {
+        filter: url(#drop-shadow-31);
+      }
+
+      .cls-12 {
+        filter: url(#drop-shadow-26);
+      }
+
+      .cls-39 {
+        filter: url(#drop-shadow-22);
+      }
+
+      .cls-40 {
+        filter: url(#drop-shadow-20);
+      }
+
+      .cls-13 {
+        filter: url(#drop-shadow-8);
+      }
+
+      .cls-14 {
+        filter: url(#drop-shadow-33);
+      }
+
+      .cls-24 {
+        filter: url(#drop-shadow-36);
+      }
+
+      .cls-25 {
+        filter: url(#drop-shadow-35);
+      }
+
+      .cls-41 {
+        filter: url(#drop-shadow-32);
+      }
+
+      .cls-36 {
+        filter: url(#drop-shadow-12);
+      }
+
+      .cls-42 {
+        filter: url(#drop-shadow-40);
+      }
+
+      .cls-15 {
+        filter: url(#drop-shadow-34);
+      }
+
+      .cls-43 {
+        letter-spacing: .00002em;
+      }
+
+      .cls-26 {
+        filter: url(#drop-shadow-5);
+      }
+
+      .cls-27 {
+        filter: url(#drop-shadow-24);
+      }
+
+      .cls-28 {
+        filter: url(#drop-shadow-29);
+      }
+
+      .cls-44 {
+        filter: url(#drop-shadow-19);
+      }
+
+      .cls-16 {
+        filter: url(#drop-shadow-27);
+      }
+
+      .cls-17 {
+        filter: url(#drop-shadow-6);
+      }
+
+      .cls-29 {
+        filter: url(#drop-shadow-15);
+      }
+
+      .cls-30 {
+        filter: url(#drop-shadow-39);
+      }
+
+      .cls-45 {
+        fill: #ee8282;
+        filter: url(#drop-shadow-11);
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-2" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-3" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-4" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-5" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-6" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-6" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-7" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-7" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-8" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-8" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-9" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-9" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-10" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-10" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-11" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-11" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-12" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-12" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-12" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-13" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-13" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-13" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-14" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-14" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-14" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-15" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-15" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-15" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-16" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-16" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-16" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-17" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-17" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-17" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-18" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-18" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-18" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-19" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-19" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-19" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-20" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-20" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-20" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-21" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-21" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-21" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-22" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-22" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-22" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-23" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-23" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-23" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-24" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-24" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-24" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-25" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-25" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-25" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-26" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-26" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-26" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-27" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-27" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-27" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-28" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-28" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-28" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-29" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-29" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-29" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-30" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-30" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-30" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-31" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-31" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-31" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-32" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-32" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-32" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-33" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-33" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-33" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-34" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-34" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-34" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-35" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-35" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-35" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-36" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-36" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-36" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-37" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-37" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-37" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-38" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-38" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-38" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-39" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-39" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-39" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-40" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.5431" dy="5.5431"/>
+      <feGaussianBlur result="blur-40" stdDeviation="11.0862"/>
+      <feFlood flood-color="#5d5e5e" flood-opacity=".75"/>
+      <feComposite in2="blur-40" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" width="1920" height="2025.19565"/>
+  <g>
+    <text class="cls-8" transform="translate(166.30803 445.56694)"><tspan x="0" y="0">養殖履歷APP使用流程</tspan></text>
+    <polygon class="cls-11" points="704.0423 374.87289 730.3347 362.74709 704.0423 350.62139 704.0423 374.87289"/>
+    <path class="cls-23" d="M611.0926,1096.68468h0c38.7392,0,70.1433-31.4045,70.1433-70.1437V401.10429c0-21.1306,17.1299-38.2602,38.2601-38.2602v2.3201"/>
+    <polygon class="cls-10" points="704.0423 1699.21958 730.3347 1711.34528 704.0423 1723.47108 704.0423 1699.21958"/>
+    <path class="cls-26" d="M611.0926,1096.77928h0c38.7392,0,70.1433,31.4045,70.1433,70.1437v506.0652c0,21.1306,17.1299,38.2602,38.2601,38.2602v-2.3201"/>
+    <polygon class="cls-17" points="1228.2063 165.2389 1254.4986 153.1132 1228.2063 140.9874 1228.2063 165.2389"/>
+    <polygon class="cls-5" points="1228.2063 374.63469 1254.4986 362.50899 1228.2063 350.38319 1228.2063 374.63469"/>
+    <polygon class="cls-13" points="1228.2063 584.17289 1254.4986 572.04709 1228.2063 559.92129 1228.2063 584.17289"/>
+    <path class="cls-21" d="M1137.0615,362.50429h0c38.7392,0,70.1433-31.4045,70.1433-70.1437v-100.8899c0-21.1306,17.1299-38.2601,38.2605-38.2601v2.32"/>
+    <path class="cls-20" d="M1245.4653,571.75419h0c-38.7392,0-70.1433-31.4045-70.1433-70.14371v-100.89029c0-21.1306-17.13-38.2601-38.2605-38.2601v2.32"/>
+    <path class="cls-45" d="M525.25,732.59248h-234.6623c-47.5202,0-86.0428-38.5226-86.0428-86.0429h0c0-47.5198,38.5226-86.0428,86.0428-86.0428h234.6623c47.5203,0,86.0428,38.523,86.0428,86.0428h0c0,47.5203-38.5225,86.0429-86.0428,86.0429Z"/>
+    <rect class="cls-36" x="204.5449" y="1010.44978" width="406.7479" height="172.0857" rx="25.9318" ry="25.9318"/>
+    <text class="cls-3" transform="translate(359.62639 664.68706)"><tspan x="0" y="0">開始</tspan></text>
+    <text class="cls-2" transform="translate(219.82267 1114.60893)"><tspan x="0" y="0">掃描QR code畫面</tspan></text>
+    <path class="cls-29" d="M407.5786,733.07858v267.9433s1.5304-269.3243,0-267.9433Z"/>
+    <polygon class="cls-7" points="395.7931 983.80468 407.9189 1010.09668 420.0447 983.80468 395.7931 983.80468"/>
+    <path class="cls-19" d="M613.3571,1096.83288h107.9024s-109.2834-1.5304-107.9024,0Z"/>
+    <polygon class="cls-9" points="704.0423 1108.61838 730.3347 1096.49268 704.0423 1084.36688 704.0423 1108.61838"/>
+    <g class="cls-44">
+      <rect class="cls-35" x="730.2631" y="276.36479" width="406.7475" height="172.08569" rx="25.93169" ry="25.93169"/>
+      <text class="cls-4" transform="translate(792.66057 380.52397)"><tspan x="0" y="0">養殖過程履歷</tspan></text>
+    </g>
+    <g class="cls-40">
+      <rect class="cls-35" x="730.2631" y="1625.41788" width="406.7475" height="172.0857" rx="25.9318" ry="25.9318"/>
+      <text class="cls-4" transform="translate(749.17521 1729.57573)"><tspan x="0" y="0">養殖魚蝦料理影片</tspan></text>
+    </g>
+    <g class="cls-31">
+      <rect class="cls-35" x="1254.5092" y="66.7399" width="406.7479" height="172.08558" rx="25.93169" ry="25.93169"/>
+      <text class="cls-4" transform="translate(1317.15764 170.89848)"><tspan x="0" y="0">放苗記錄閱讀</tspan></text>
+    </g>
+    <g class="cls-39">
+      <rect class="cls-35" x="1254.6339" y="276.15359" width="406.748" height="172.0857" rx="25.9318" ry="25.9318"/>
+      <text class="cls-4" transform="translate(1317.03361 380.31254)"><tspan x="0" y="0">養殖記錄閱讀</tspan></text>
+    </g>
+    <g class="cls-33">
+      <rect class="cls-35" x="1254.6339" y="486.07119" width="406.748" height="172.0856" rx="25.9317" ry="25.9317"/>
+      <text class="cls-4" transform="translate(1317.03361 590.22905)"><tspan x="0" y="0">收成記錄閱讀</tspan></text>
+    </g>
+    <line class="cls-27" x1="1137.0615" y1="362.50429" x2="1229.4359" y2="362.50429"/>
+    <polygon class="cls-6" points="1228.2063 899.57888 1254.4986 887.45318 1228.2063 875.32738 1228.2063 899.57888"/>
+    <polygon class="cls-12" points="1228.2063 1108.97468 1254.4986 1096.84888 1228.2063 1084.72318 1228.2063 1108.97468"/>
+    <polygon class="cls-16" points="1228.2063 1318.51248 1254.4986 1306.38668 1228.2063 1294.26088 1228.2063 1318.51248"/>
+    <path class="cls-22" d="M1137.0615,1096.84428h0c38.7392,0,70.1433-31.4045,70.1433-70.1437v-100.8899c0-21.1306,17.1299-38.2602,38.2605-38.2602v2.3201"/>
+    <path class="cls-28" d="M1245.4653,1306.09378h0c-38.7392,0-70.1433-31.4045-70.1433-70.1437v-100.8899c0-21.1306-17.13-38.2601-38.2605-38.2601v2.32"/>
+    <g class="cls-18">
+      <rect class="cls-35" x="1254.6339" y="801.07978" width="406.748" height="172.0857" rx="25.9317" ry="25.9317"/>
+      <text class="cls-4" transform="translate(1340.45158 905.23881)"><tspan x="0" y="0">養殖者資料</tspan></text>
+    </g>
+    <g class="cls-38">
+      <rect class="cls-35" x="1254.6339" y="1010.49318" width="406.748" height="172.0857" rx="25.9317" ry="25.9317"/>
+      <text class="cls-4" transform="translate(1294.5717 1114.65141)"><tspan x="0" y="0">養殖場位置地圖</tspan></text>
+    </g>
+    <g class="cls-41">
+      <rect class="cls-35" x="1254.6339" y="1220.41108" width="406.748" height="172.0857" rx="25.9317" ry="25.9317"/>
+      <text class="cls-4" transform="translate(1317.03361 1324.56889)"><tspan x="0" y="0">檢測證書閱讀</tspan></text>
+    </g>
+    <polygon class="cls-14" points="1228.2063 1622.10048 1254.4986 1609.97478 1228.2063 1597.84898 1228.2063 1622.10048"/>
+    <polygon class="cls-15" points="1228.2063 1884.59298 1254.4986 1872.46718 1228.2063 1860.34138 1228.2063 1884.59298"/>
+    <path class="cls-25" d="M1137.0615,1741.14508h0c38.7392,0,70.1433-31.4045,70.1433-70.1437v-22.6691c0-21.1306,17.1299-38.2602,38.2605-38.2602v2.3201"/>
+    <path class="cls-24" d="M1245.4653,1872.17428h0c-38.7392,0-70.1433-31.4045-70.1433-70.1437v-22.6696c0-21.1305-17.13-38.2601-38.2605-38.2601v2.32"/>
+    <g class="cls-34">
+      <rect class="cls-35" x="1254.6339" y="1523.60138" width="500.0446" height="172.0857" rx="28.7524" ry="28.7524"/>
+      <text class="cls-4" transform="translate(1272.4633 1627.7603)"><tspan x="0" y="0">進入影片</tspan><tspan class="cls-32" x="187.72949" y="0">Y</tspan><tspan class="cls-43" x="211.12695" y="0">outube連結</tspan></text>
+    </g>
+    <g class="cls-37">
+      <rect class="cls-35" x="1254.6339" y="1786.23158" width="406.748" height="172.0856" rx="25.9317" ry="25.9317"/>
+      <text class="cls-4" transform="translate(1302.28264 1859.65288)"><tspan x="0" y="0">分享給朋友</tspan><tspan x="0" y="56.31934">(內建應用程式)</tspan></text>
+    </g>
+    <line class="cls-30" x1="1137.0615" y1="1096.84428" x2="1229.4359" y2="1096.84428"/>
+    <g class="cls-42">
+      <rect class="cls-35" x="730.2631" y="1010.44978" width="406.7475" height="172.0857" rx="25.9318" ry="25.9318"/>
+      <text class="cls-4" transform="translate(792.65959 1114.60893)"><tspan x="0" y="0">養殖業者履歷</tspan></text>
+    </g>
+  </g>
+</svg>
