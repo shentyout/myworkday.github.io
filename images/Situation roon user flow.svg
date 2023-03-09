@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name=" 圖層 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3750.6377 3902.36378">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#drop-shadow-7);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 60.86958px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: MicrosoftJhengHeiBold, 'Microsoft JhengHei';
+      }
+
+      .cls-5 {
+        fill: #c01e3f;
+      }
+
+      .cls-6 {
+        filter: url(#drop-shadow-4);
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-8);
+      }
+
+      .cls-8 {
+        fill: #633a8a;
+      }
+
+      .cls-9 {
+        fill: #e37e7e;
+      }
+
+      .cls-10 {
+        filter: url(#drop-shadow-3);
+      }
+
+      .cls-11 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-12 {
+        fill: #2386bd;
+      }
+
+      .cls-13 {
+        filter: url(#drop-shadow-6);
+      }
+
+      .cls-4 {
+        font-size: 48px;
+      }
+
+      .cls-14 {
+        filter: url(#drop-shadow-5);
+      }
+
+      .cls-15 {
+        fill: #cb6c17;
+      }
+
+      .cls-16 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-17 {
+        fill: none;
+        stroke: #203053;
+        stroke-miterlimit: 10;
+        stroke-width: 3.91104px;
+      }
+
+      .cls-18 {
+        filter: url(#drop-shadow-9);
+      }
+
+      .cls-19 {
+        fill: #203053;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur-2" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur-3" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur-4" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur-5" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-6" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur-6" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-7" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur-7" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-8" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur-8" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-9" filterUnits="userSpaceOnUse">
+      <feOffset dx="6.99874" dy="7"/>
+      <feGaussianBlur result="blur-9" stdDeviation="8.50394"/>
+      <feFlood flood-color="#9b9b9b" flood-opacity=".75"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-2" cx="3703.68115" cy="3855.40724" r="46.95654"/>
+  <circle class="cls-2" cx="46.95654" cy="3855.40724" r="46.95654"/>
+  <g>
+    <polygon class="cls-19" points="1153.75248 1971.58362 1180.04484 1959.45776 1153.75248 1947.33203 1153.75248 1971.58362"/>
+    <path class="cls-17" d="M1060.80277,2421.65137h0c38.7392,0,70.14331-31.40454,70.14331-70.1438v-353.69263c0-21.13062,17.12988-38.26025,38.26007-38.26025v2.32007"/>
+    <g>
+      <polygon class="cls-19" points="1153.75248 2793.36011 1180.04484 2805.48584 1153.75248 2817.61157 1153.75248 2793.36011"/>
+      <path class="cls-17" d="M1169.20615,2803.06885v2.32007c-21.13019,0-38.26013-17.12964-38.26013-38.26025v-275.06714c0-38.73926-31.40411-70.1438-70.14331-70.1438h-464.86649"/>
+    </g>
+    <path class="cls-17" d="M1130.94608,2002.1897V798.67963c0-21.13062,17.12988-38.26019,38.26007-38.26019v2.32013"/>
+    <polygon class="cls-19" points="1153.75248 3578.27319 1180.04484 3590.39893 1153.75248 3602.52466 1153.75248 3578.27319"/>
+    <path class="cls-17" d="M1130.94608,2761.32007v790.72168c0,21.13062,17.12988,38.26025,38.26007,38.26025v-2.32007"/>
+    <g>
+      <polygon class="cls-19" points="2540.7426 1762.21045 2567.03484 1750.08472 2540.7426 1737.95898 2540.7426 1762.21045"/>
+      <path class="cls-17" d="M2449.5977,1959.47583h0c38.73926,0,70.14331-31.40454,70.14331-70.14368v-100.88989c0-21.13062,17.12988-38.26013,38.2605-38.26013v2.31995"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2540.7426 2181.14453 2567.03484 2169.01855 2540.7426 2156.89282 2540.7426 2181.14453"/>
+      <path class="cls-17" d="M2558.00151,2168.72583h0c-38.73926,0-70.14331-31.40454-70.14331-70.1438v-100.89026c0-21.13062-17.13-38.26013-38.2605-38.26013v2.31995"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2540.7426 1971.6062 2567.03484 1959.48059 2540.7426 1947.35474 2540.7426 1971.6062"/>
+      <line class="cls-17" x1="1588.02317" y1="1959.47583" x2="2541.97209" y2="1959.47583"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2803.69912 1244.60693 2829.99136 1232.48108 2803.69912 1220.35535 2803.69912 1244.60693"/>
+      <path class="cls-17" d="M2820.95803,1232.18823h0c-38.73926,0-70.14331-31.40454-70.14331-70.14368v-230.52869"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2803.69912 1014.51996 2829.99136 1002.39417 2803.69912 990.26831 2803.69912 1014.51996"/>
+      <path class="cls-17" d="M2820.95803,1002.10126h0c-38.73926,0-70.14331-31.40448-70.14331-70.14374v-133.70337c0-21.13062-17.13-38.26013-38.2605-38.26013v2.32001"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2803.69912 556.52075 2829.99136 544.39502 2803.69912 532.26923 2803.69912 556.52075"/>
+      <path class="cls-17" d="M2712.55422,760.25494h0c38.73926,0,70.14331-31.40448,70.14331-70.14368v-107.3587c0-21.13062,17.12988-38.26013,38.2605-38.26013v2.32001"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2803.69912 327.54248 2829.99136 315.41678 2803.69912 303.29099 2803.69912 327.54248"/>
+      <path class="cls-17" d="M2782.69753,584.03754v-230.26328c0-21.13058,17.12988-38.2601,38.2605-38.2601v2.32001"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2803.69912 98.05878 2829.99136 85.93308 2803.69912 73.80728 2803.69912 98.05878"/>
+      <path class="cls-17" d="M2782.69753,354.47232V124.29058c0-21.1306,17.12988-38.2601,38.2605-38.2601v2.32"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2803.69912 1473.91125 2829.99136 1461.7854 2803.69912 1449.65967 2803.69912 1473.91125"/>
+      <path class="cls-17" d="M2820.95803,1461.49255h0c-38.73926,0-70.14331-31.40454-70.14331-70.14368v-233.39819"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2803.69912 772.37305 2829.99136 760.24738 2803.69912 748.12152 2803.69912 772.37305"/>
+      <polyline class="cls-17" points="2804.92861 760.24268 2712.55422 760.24268 1588.02317 760.24268"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2277.78608 2698.50195 2304.07831 2686.37622 2277.78608 2674.25049 2277.78608 2698.50195"/>
+      <path class="cls-17" d="M2186.64118,2807.54639h0c38.73926,0,70.14331-31.40454,70.14331-70.1438v-12.66919c0-21.13062,17.12988-38.26025,38.2605-38.26025v2.32007"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2277.78608 2453.67578 2304.07831 2441.55005 2277.78608 2429.42432 2277.78608 2453.67578"/>
+      <path class="cls-17" d="M2256.78449,2732.40723v-252.49951c0-21.13062,17.12988-38.26025,38.2605-38.26025v2.32007"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2277.78608 2942.7334 2304.07831 2930.60767 2277.78608 2918.48193 2277.78608 2942.7334"/>
+      <path class="cls-17" d="M2295.04499,2930.31494h0c-38.73926,0-70.14331-31.40454-70.14331-70.1438v-14.66968c0-21.13062-17.13-38.26001-38.2605-38.26001v2.32007"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2277.78608 3186.44287 2304.07831 3174.31689 2277.78608 3162.19116 2277.78608 3186.44287"/>
+      <path class="cls-17" d="M2295.04499,3174.02417h0c-38.73926,0-70.14331-31.40454-70.14331-70.1438v-241.5603"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2014.82956 3476.24097 2041.12179 3464.11523 2014.82956 3451.9895 2014.82956 3476.24097"/>
+      <path class="cls-17" d="M1923.68466,3590.28564h0c38.73926,0,70.14331-31.40454,70.14331-70.1438v-17.66919c0-21.13062,17.12988-38.26025,38.2605-38.26025v2.32007"/>
+    </g>
+    <g>
+      <polygon class="cls-19" points="2014.82956 3723.60303 2041.12179 3711.47729 2014.82956 3699.35156 2014.82956 3723.60303"/>
+      <path class="cls-17" d="M2032.08847,3711.18433h0c-38.73926,0-70.14331-31.40454-70.14331-70.1438v-12.51465c0-21.13062-17.13-38.26001-38.2605-38.26001v2.32007"/>
+    </g>
+    <polygon class="cls-19" points="1154.68143 772.9024 1180.97373 760.77673 1154.68143 748.65094 1154.68143 772.9024"/>
+    <line class="cls-17" x1="2186.64118" y1="2807.24146" x2="1588.28403" y2="2807.24146"/>
+    <line class="cls-17" x1="1923.68466" y1="3590.37183" x2="1588.28403" y2="3590.37183"/>
+    <g class="cls-11">
+      <rect class="cls-9" x="189.3855" y="2335.4165" width="406.74789" height="172.08569" rx="25.93188" ry="25.93188"/>
+      <text class="cls-3" transform="translate(301.48175 2441.12141)"><tspan x="0" y="0">戰情室</tspan></text>
+    </g>
+    <g class="cls-16">
+      <rect class="cls-12" x="1181.2009" y="673.94012" width="406.74756" height="172.08569" rx="25.9317" ry="25.9317"/>
+      <text class="cls-4" transform="translate(1216.87317 775.453)"><tspan x="0" y="0">製令單即時狀況</tspan></text>
+    </g>
+    <g class="cls-10">
+      <g>
+        <rect class="cls-8" x="2572.27483" y="1663.71143" width="463.06421" height="172.08557" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2707.80737 1768.18835)"><tspan x="0" y="0">機台編號</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-8" x="2572.27483" y="1873.37708" width="463.06433" height="172.08569" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2659.59692 1977.85394)"><tspan x="0" y="0">上機模具編號</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-8" x="2572.27483" y="2083.04272" width="463.06433" height="172.08569" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2731.97192 2187.87137)"><tspan x="0" y="0">稼動率</tspan></text>
+      </g>
+    </g>
+    <g class="cls-6">
+      <g>
+        <rect class="cls-5" x="2309.3183" y="2355.60083" width="406.74805" height="172.08569" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2382.01782 2460.19419)"><tspan x="0" y="0">正式生產-綠</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-5" x="2309.3183" y="2600.00684" width="406.74805" height="172.08569" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2382.20435 2704.46054)"><tspan x="0" y="0">試模階段-藍</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-5" x="2309.3183" y="2844.4126" width="406.74805" height="172.08569" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2382.20386 2948.98306)"><tspan x="0" y="0">休機保養-灰</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-5" x="2309.3183" y="3088.8186" width="406.74805" height="172.08569" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2382.3689 3193.43616)"><tspan x="0" y="0">突發狀況-紅</tspan></text>
+      </g>
+    </g>
+    <g class="cls-14">
+      <g>
+        <rect class="cls-15" x="2046.36178" y="3378.29639" width="406.74805" height="172.08569" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2153.52612 3482.89014)"><tspan x="0" y="0">預計排程</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-15" x="2046.36178" y="3626.29688" width="406.74805" height="172.08569" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2153.52563 3730.89038)"><tspan x="0" y="0">實際排程</tspan></text>
+      </g>
+    </g>
+    <g class="cls-13">
+      <g>
+        <rect class="cls-12" x="2835.23135" width="463.06421" height="172.08559" rx="25.93169" ry="25.93169"/>
+        <text class="cls-4" transform="translate(2946.71704 104.5238)"><tspan x="0" y="0">製令單單號</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-12" x="2835.23135" y="458.50092" width="463.06421" height="172.08557" rx="25.9317" ry="25.9317"/>
+        <text class="cls-4" transform="translate(2972.20483 563.14111)"><tspan x="0" y="0">產品品名</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-12" x="2835.23135" y="687.75134" width="463.06421" height="172.08557" rx="25.9317" ry="25.9317"/>
+        <text class="cls-4" transform="translate(2971.50171 792.3219)"><tspan x="0" y="0">交貨日期</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-12" x="2835.23135" y="917.00177" width="463.06433" height="172.08563" rx="25.9317" ry="25.9317"/>
+        <text class="cls-4" transform="translate(2970.57642 1021.54883)"><tspan x="0" y="0">訂單數量</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-12" x="2835.23135" y="1146.25232" width="463.06433" height="172.08557" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2920.36157 1250.89343)"><tspan x="0" y="0">目前完成數量</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-12" x="2835.23135" y="1375.50269" width="463.06433" height="172.08557" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2994.76392 1480.12024)"><tspan x="0" y="0">完成率</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-12" x="2835.23135" y="229.25046" width="463.06421" height="172.0856" rx="25.93164" ry="25.93164"/>
+        <text class="cls-4" transform="translate(2922.55347 333.72742)"><tspan x="0" y="0">上機模具編號</tspan></text>
+      </g>
+    </g>
+    <g class="cls-1">
+      <rect class="cls-8" x="1181.2009" y="1873.07544" width="406.74756" height="172.08569" rx="25.93164" ry="25.93164"/>
+      <text class="cls-4" transform="translate(1264.87305 1974.31177)"><tspan x="0" y="0">機台稼動率</tspan></text>
+    </g>
+    <g class="cls-7">
+      <rect class="cls-5" x="1181.2009" y="2719.55835" width="406.74756" height="172.08569" rx="25.93188" ry="25.93188"/>
+      <text class="cls-4" transform="translate(1212.43835 2822.39865)"><tspan x="0" y="0">24小時機台狀況</tspan></text>
+    </g>
+    <g class="cls-18">
+      <rect class="cls-15" x="1181.2009" y="3504.47144" width="406.74756" height="172.08569" rx="25.93188" ry="25.93188"/>
+      <text class="cls-4" transform="translate(1260.36511 3605.37427)"><tspan x="0" y="0">24小時排程</tspan></text>
+    </g>
+  </g>
+</svg>
