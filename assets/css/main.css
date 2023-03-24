@@ -2920,15 +2920,9 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
-
-
-
-
-			
-			
 			.BOS {
 				display: flex;
-				justify-content: left;
+				justify-content: space-between;;
 				align-items: center;
 				flex-wrap: wrap;
 				transform-style: preserve-3d;
@@ -2939,8 +2933,8 @@ input, select, textarea {
 				position: relative;
 				width: 320px;
 				height: 320px;
-				margin: 30px;
-				padding: 180px;
+				margin: 1.5%;
+				padding: 120px;
 				transform-style: preserve-3d;
 				perspective: 1100px;
 			}
