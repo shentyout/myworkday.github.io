@@ -10,26 +10,15 @@
 	<body class="is-preload">
 
 		<!-- Header -->
-			<section id="header" style="background-image: url('images/smartagriculture app.png');">
-				<div class="inner">
-							
-					<html lang="en">
-					<head>
-						<meta charset="UTF-8">
-						<meta http-equiv="X-UA-Compatible" content="IE=edge">
-						<meta name="viewport" content="width=device-width, initial-scale=1.0">
-						<title>行雲好水-app</title>
-					</head>
-					<body>
-						
-					</body>
-					</html>
-					
-					<ul class="actions special">
-						<li><a href="#one" class="button scrolly">行雲好水-app</a></li>
-					</ul>
-				</div>
-			</section>
+		<section class="newheaderscroll">
+            <img src="images/backgroundimage.png">
+			<img src="images/foam.png" id="stars">
+            <img src="images/appcircle.png" id="moon">
+            <img src="images/fishappbehind.png" id="behind">
+            <h2 id="caption" ><font color="B28B5B">Smart Agriculture-app</font></h2>
+            <a href="#one" id="btn">start</a>
+            <img src="images/fishappfront.png" id="front">
+        </section>
 
 		<!-- One -->
 		<section id="one" class="main style2 special">
@@ -571,6 +560,27 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
+			<script>
+				let foam = document.getElementById('stars');
+				let appcircle = document.getElementById('moon');
+				let fishappbehind = document.getElementById('behind');
+				let caption = document.getElementById('caption');
+				let btn = document.getElementById('btn');
+				let fishappfront = document.getElementById('front');
+				let newheader = document.querySelector('newheader');
+		
+				window.addEventListener('scroll',function(){
+					let value = window.scrollY;
+					foam.style.left = value * 0.25 + 'px';
+					appcircle.style.top = value * 1.05 + 'px';
+					fishappbehind.style.top = value * 0.5 + 'px';
+					fishappfront.style.top = value * 0.03 + 'px';
+					caption.style.marginRight = value * 0.5 + 'px';
+					btn.style.marginTop = value * 1.5 + 'px';
+					header.style.top = value * 0.5 + 'px';
+				})
+			</script>
 
 	</body>
 </html>
