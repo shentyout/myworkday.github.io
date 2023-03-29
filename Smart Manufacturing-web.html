@@ -10,26 +10,15 @@
 	<body class="is-preload">
 
 		<!-- Header -->
-			<section id="header" style="background-image: url('images/塑上雲封面.png');">
-				<div class="inner">
-							
-					<html lang="en">
-					<head>
-						<meta charset="UTF-8">
-						<meta http-equiv="X-UA-Compatible" content="IE=edge">
-						<meta name="viewport" content="width=device-width, initial-scale=1.0">
-						<title>塑上雲-Web</title>
-					</head>
-					<body>
-						
-					</body>
-					</html>
-					
-					<ul class="actions special">
-						<li><a href="#one" class="button scrolly">塑上雲-Web</a></li>
-					</ul>
-				</div>
-			</section>
+		<section class="newheaderscroll">
+            <img src="images/backgroundimage.png">
+            <img src="images/Manufacturingcircle.png" id="moon">
+			<img src="images/word.png" id="stars">
+            <img src="images/Manufacturingbehind.png" id="behind">
+            <h2 id="caption" ><font color="D4DF3E">Smart Manufacturing</font></h2>
+            <a href="#one" id="btn">start</a>
+            <img src="images/Manufacturingfront.png" id="front">
+        </section>
 
 		<!-- One -->
 		<section id="one" class="main style2 special">
@@ -586,6 +575,28 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			
+			<script>
+				let word = document.getElementById('stars');
+				let Manufacturingcircle = document.getElementById('moon');
+				let Manufacturingbehind = document.getElementById('behind');
+				let caption = document.getElementById('caption');
+				let btn = document.getElementById('btn');
+				let Manufacturingfront = document.getElementById('front');
+				let newheader = document.querySelector('newheader');
+		
+				window.addEventListener('scroll',function(){
+					let value = window.scrollY;
+					word.style.left = value * 0.25 + 'px';
+					Manufacturingcircle.style.top = value * 1.05 + 'px';
+					Manufacturingbehind.style.top = value * 0.5 + 'px';
+					Manufacturingbehind.style.left = value * 0.08 + 'px';
+					Manufacturingfront.style.top = value * 0.03 + 'px';
+					caption.style.marginRight = value * 0.5 + 'px';
+					btn.style.marginTop = value * 1.5 + 'px';
+					header.style.top = value * 0.5 + 'px';
+				})
+			</script>
 
 	</body>
 </html>
