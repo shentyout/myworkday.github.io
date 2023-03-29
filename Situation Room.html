@@ -10,26 +10,15 @@
 	<body class="is-preload">
 
 		<!-- Header -->
-			<section id="header" style="background-image: url('images/Situation Room.png');">
-				<div class="inner">
-							
-					<html lang="en">
-					<head>
-						<meta charset="UTF-8">
-						<meta http-equiv="X-UA-Compatible" content="IE=edge">
-						<meta name="viewport" content="width=device-width, initial-scale=1.0">
-						<title>塑上雲-戰情室可視化</title>
-					</head>
-					<body>
-						
-					</body>
-					</html>
-					
-					<ul class="actions special">
-						<li><a href="#one" class="button scrolly">塑上雲-戰情室可視化</a></li>
-					</ul>
-				</div>
-			</section>
+		<section class="newheaderscroll">
+            <img src="images/backgroundimage.png">
+            <img src="images/Situationcircle.png" id="moon">
+			<img src="images/word.png" id="stars">
+            <img src="images/Situationbehind.png" id="behind">
+            <h2 id="caption" ><font color="C2C638">Manufacturing Visualization</font></h2>
+            <a href="#one" id="btn">start</a>
+            <img src="images/Situationfront.png" id="front">
+        </section>
 
 		<!-- One -->
 		<section id="one" class="main style2 special">
@@ -447,6 +436,28 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
+			<script>
+				let word = document.getElementById('stars');
+				let Situationcircle = document.getElementById('moon');
+				let Situationbehind = document.getElementById('behind');
+				let caption = document.getElementById('caption');
+				let btn = document.getElementById('btn');
+				let Situationfront = document.getElementById('front');
+				let newheader = document.querySelector('newheader');
+		
+				window.addEventListener('scroll',function(){
+					let value = window.scrollY;
+					word.style.left = value * 0.25 + 'px';
+					Situationcircle.style.top = value * 1.05 + 'px';
+					Situationbehind.style.top = value * 0.5 + 'px';
+					Situationbehind.style.left = value * 0.08 + 'px';
+					Situationfront.style.top = value * 0.03 + 'px';
+					caption.style.marginRight = value * 0.5 + 'px';
+					btn.style.marginTop = value * 1.5 + 'px';
+					header.style.top = value * 0.5 + 'px';
+				})
+			</script>
 
 	</body>
 </html>
