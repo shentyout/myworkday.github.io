@@ -15,25 +15,13 @@
 	<body class="is-preload">
 
 		<!-- Header -->
-			<section id="header" style="background-image: url('images/01.jpg');">
-				<div class="inner">
-							
-					<html lang="en">
-					<head>
-						<meta charset="UTF-8">
-						<meta http-equiv="X-UA-Compatible" content="IE=edge">
-						<meta name="viewport" content="width=device-width, initial-scale=1.0">
-						<title>Document</title>
-					</head>
-					<body>
-						
-					</body>
-					</html>
-					
-					<ul class="actions special">
-						<li><a href="#one" class="button scrolly">About me</a></li>
-					</ul>
-				</div>
+			<section class="newheaderscroll">
+				<img src="images/backgroundimage.png">
+				<img src="images/aboutmeword.png" id="stars">
+				<img src="images/aboutmebehind.png" id="behind">
+				<h2 id="caption" ><font color="eeeeee">About Me</font></h2>
+				<a href="#one" id="btn">start</a>
+				<img src="images/aboutmefront.png" id="front">
 			</section>
 
 		<!-- One -->
@@ -112,9 +100,9 @@
 						<header class="major">
 							<h2>專案設計師經驗</h2>
 						</header>
-						<p>金上吉前身為代工塑膠廠，後經由二代轉型成嬰兒用品ODM，主要針對嬰兒學步車、遊戲座、餐椅等產品開發。</p>
-							<p>嬰兒用品開發，最著重的是安規測試，由於複雜的機構和嚴格的國際安全規範，所以開發週期相較於電子產品來得較長，同時也較封閉。若開發新領域的商品，前期投入的實驗經費龐大，所以大多數嬰兒用品公司只針對兩三項主力戰線<br />
-							在這間公司，我以專案設計師身份負責整個產品的開發到量產，經手嬰兒遊戲座開發與餐桌安全椅設計。前期我帶領設計助理進行市場分析，將現有的競爭產品購回並拆機研究，反覆實驗，並進行草圖提案和3D建模。<br />
+						<p>在金上吉的工作經驗，培養我成為一位能夠獨立全程控管開發到量產時程的專案設計師!</p>
+							<p>
+							開發時程緊湊且突發狀況相當多，。前期我帶領設計助理進行市場分析，將現有的競爭產品購回並拆機研究，反覆實驗，並進行草圖提案和3D建模。<br />
 							開發中期進行機構設計與模型安規實驗，此階段相當考驗設計師的經驗與耐心，因為實驗失敗率相當高，需要反覆3D修正、列印、實驗並確認開模合理性。<br />
 							修正後進入開模階段，此階段與模具工程師討論結構並協助撰寫DFM，控管合理的開模方式、成本與時間，並推估開模時程安排試模。<br />
 							當進入反覆的試模與修模階段時，也將試模品送內測與國家實驗室進行實驗，並反饋給設計夥伴們，最後安排產品量產、產線時程控制與包裝實驗。<br />
@@ -225,6 +213,26 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
+			<script>
+				let aboutmeword = document.getElementById('stars');
+				let aboutmebehind = document.getElementById('behind');
+				let caption = document.getElementById('caption');
+				let btn = document.getElementById('btn');
+				let aboutmefront = document.getElementById('front');
+				let newheader = document.querySelector('newheader');
+		
+				window.addEventListener('scroll',function(){
+					let value = window.scrollY;
+					aboutmeword.style.left = value * 0.25 + 'px';
+					aboutmebehind.style.top = value * 0.5 + 'px';
+					aboutmebehind.style.left = value * 0.08 + 'px';
+					aboutmefront.style.top = value * 0.2 + 'px';
+					caption.style.marginRight = value * 0.5 + 'px';
+					btn.style.marginTop = value * 1.5 + 'px';
+					header.style.top = value * 0.5 + 'px';
+				})
+			</script>
 
 	</body>
 </html>
