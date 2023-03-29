@@ -10,29 +10,18 @@
 	<body class="is-preload">
 
 		<!-- Header -->
-			<section id="header" style="background-image: url('images/smartagriculture web.png');">
-				<div class="inner">
-							
-					<html lang="en">
-					<head>
-						<meta charset="UTF-8">
-						<meta http-equiv="X-UA-Compatible" content="IE=edge">
-						<meta name="viewport" content="width=device-width, initial-scale=1.0">
-						<title>行雲好水-Web</title>
-					</head>
-					<body>
-						
-					</body>
-					</html>
-					
-					<ul class="actions special">
-						<li><a href="#one" class="button scrolly">行雲好水-Web</a></li>
-					</ul>
-				</div>
-			</section>
+		<section class="newheaderscroll">
+            <img src="images/backgroundimage.png">
+			<img src="images/foam.png" id="stars">
+            <img src="images/circle.png" id="moon">
+            <img src="images/fishbehind.png" id="behind">
+            <h2 id="caption" ><font color="B28B5B">Smart Agriculture</font></h2>
+            <a href="#one" id="btn">start</a>
+            <img src="images/fishfront.png" id="front">
+        </section>
 
 		<!-- One -->
-		<section id="one" class="main style2 special">
+		<section id="one" class="main style2 special" >
 			<div class="container">
 				<header class="major">
 					<h2>養殖漁業邁向全廠監控</h2>
@@ -587,6 +576,28 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
+			<script>
+				let foam = document.getElementById('stars');
+				let circle = document.getElementById('moon');
+				let fishbehind = document.getElementById('behind');
+				let caption = document.getElementById('caption');
+				let btn = document.getElementById('btn');
+				let fishfront = document.getElementById('front');
+				let newheader = document.querySelector('newheader');
+		
+				window.addEventListener('scroll',function(){
+					let value = window.scrollY;
+					foam.style.left = value * 0.3 + 'px';
+					circle.style.top = value * 1.05 + 'px';
+					fishbehind.style.top = value * 0.5 + 'px';
+					fishfront.style.top = value * 0.1 + 'px';
+					caption.style.marginRight = value * 0.3 + 'px';
+					
+					btn.style.marginTop = value * 1.5 + 'px';
+					header.style.top = value * 0.5 + 'px';
+				})
+			</script>
 
 	</body>
 </html>
