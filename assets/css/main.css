@@ -3627,7 +3627,31 @@ input, select, textarea {
 	
     z-index: 10000;
 }
-
+.newheader ul
+{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.newheader ul li
+{
+    list-style: none;
+    margin-left: 20px;
+}
+.newheader ul li a
+{
+	text-decoration: none;
+	padding: 6px 9px;
+	background: #2b3541;
+	color: #fff;
+	border-radius: 20px;
+}
+.newheader ul li a:hover ,
+.newheader ul li a.active
+{
+    background:#4fa49a;
+    color:#fff;
+}
 .newheaderscroll 
 {
     position: relative;
