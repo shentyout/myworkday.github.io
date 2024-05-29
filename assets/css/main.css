@@ -3735,10 +3735,16 @@ input, select, textarea {
 	line-height: 180%;
 	text-shadow: 0px 10px 10px rgba(155, 155, 155, 0.4);
     z-index: 9;
-	transform: translateX(-415px);
 	
-	@media only screen and (min-width: 768px) {
-		transform: translateX(-135%);
+	transform: translateX(-135%);
+
+	@media only screen and (min-width: 992px) {
+		transform: translateX(-215px);	
+		
+	}
+
+	@media only screen and (min-width: 1200px) {
+		transform: translateX(-415px);	
 		
 	}
 }
