@@ -3723,6 +3723,7 @@ input, select, textarea {
     z-index: 9;
 	transform: translateX(-530px);
 }
+
 #caption3
 {
     top:25%;
@@ -3735,5 +3736,10 @@ input, select, textarea {
 	text-shadow: 0px 10px 10px rgba(155, 155, 155, 0.4);
     z-index: 9;
 	transform: translateX(-415px);
+	
+	@media only screen and (min-width: 768px) {
+		transform: translateX(-135%);
+		
+	}
 }
 
