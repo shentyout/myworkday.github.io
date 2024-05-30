@@ -3737,7 +3737,7 @@ input, select, textarea {
 	line-height: 180%;
 	text-shadow: 0px 10px 10px rgba(155, 155, 155, 0.4);
     z-index: 9;
-	width: 1140px;
+	
     max-width: 80%;
     left: 10%;
 }
