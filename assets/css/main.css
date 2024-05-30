@@ -3728,7 +3728,7 @@ input, select, textarea {
 {
     top:30%;
 	position: absolute;
-    white-space: nowrap;
+    white-space: normal;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-weight:bold;
     font-size: 130%;
