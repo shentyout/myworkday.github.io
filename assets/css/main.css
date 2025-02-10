@@ -2926,7 +2926,7 @@ input, select, textarea {
 
 			.BOS {
 				display: flex;
-				justify-content: space-between;
+				justify-content: center;
 				align-items: center;
 				flex-wrap: wrap;
 				transform-style: preserve-3d;
