@@ -3615,7 +3615,8 @@ input, select, textarea {
 	
 
 	.newheader
-{
+/*----------------------------------------------------------------------------------------------------------------------------------  */
+/* {
     position: absolute;
     top: 0;
     left: 0;
@@ -3650,6 +3651,52 @@ input, select, textarea {
 {
     background:#4D4D4D;
     color:#fff;
+} */
+/*----------------------------------------------------------------------------------------------------------------------------------  */
+.newheader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 20px;
+    background: rgba(255, 255, 255, 0.05); /* 半透明背景 */
+    backdrop-filter: blur(5px); /* 柔焦效果 */
+    -webkit-backdrop-filter: blur(10px); /* Safari 支援 */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    z-index: 10000;
+    font-weight: 600; 
+    transition: transform 0.3ms ease;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+	
+}
+
+
+.newheader.hide {
+    transform: translateY(-100%); /* 隱藏 header */
+}
+
+.newheader ul {
+    display: flex;
+}
+
+.newheader ul li {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.newheader ul li a {
+    text-decoration: none;
+    padding: 6px 9px;
+   	color: #929292;
+	border-radius: 4px;
+    transition: 0.3s ease;
+}
+
+.newheader ul li a:hover,
+.newheader ul li a.active {
+    color: #b1b1b1;
 }
 .newheaderscroll 
 {
