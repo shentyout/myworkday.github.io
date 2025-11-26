@@ -3615,44 +3615,6 @@ input, select, textarea {
 	
 
 	.newheader
-/*----------------------------------------------------------------------------------------------------------------------------------  */
-/* {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 30px 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-	z-index: 10000;
-}
-.newheader ul
-{
-    display: flex;
-    justify-content: right;
-    align-items: right;
-}
-.newheader ul li
-{
-    list-style: none;
-    margin-left: 20px;
-}
-.newheader ul li a
-{
-	text-decoration: none;
-	padding: 6px 9px;
-	background: #2b3541;
-	color: #fff;
-	border-radius: 20px;
-}
-.newheader ul li a:hover ,
-.newheader ul li a.active
-{
-    background:#4D4D4D;
-    color:#fff;
-} */
-/*----------------------------------------------------------------------------------------------------------------------------------  */
 .newheader {
     position: fixed;
     top: 0;
