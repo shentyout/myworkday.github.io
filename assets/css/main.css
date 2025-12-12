@@ -3623,7 +3623,7 @@ input, select, textarea {
     padding: 20px 20px;
     background: linear-gradient(
         to bottom,
-        rgba(255, 255, 255, 0.15),  /* 上層稍微亮 */
+        rgba(255, 255, 255, 0.5),  /* 上層稍微亮 */
         rgba(255, 255, 255, 0)   /* 下層更透明 */
     );
     backdrop-filter: blur(5px); /* 柔焦效果 */
