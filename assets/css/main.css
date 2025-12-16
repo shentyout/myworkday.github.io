@@ -3655,14 +3655,14 @@ input, select, textarea {
 .newheader ul li a {
     text-decoration: none;
     padding: 6px 9px;
-   	color: #929292;
+   	color: #14539A;
 	border-radius: 4px;
     transition: 0.3s ease;
 }
 
 .newheader ul li a:hover,
 .newheader ul li a.active {
-    color: #b1b1b1;
+    color: #2970C0;
 }
 .newheaderscroll 
 {
